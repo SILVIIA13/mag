@@ -1,0 +1,10 @@
+{
+  "source": "theme",
+  "width": 1024,
+  "height": 78,
+  "image_path": "mipmap",
+  "background": "",
+  "design_config": "@layout/hotseat_config_1024",
+  "gravity": "right|r_0|bottom|b_0",
+  "config": []
+}

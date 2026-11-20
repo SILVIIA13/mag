@@ -1,0 +1,27 @@
+{
+  "source": "theme",
+  "attributes": [
+    {
+      "": "车速文字",
+      "id_name": "tv_carspeed_text",
+      "width": -2,
+      "height": -2,
+      "gravity": "center_horizontal|t_152",
+      "text_size": 86,
+      "text_color": "#FFFFFF",
+      "visibility":true,
+      "typeface": "fonts/Microgramma D Extended Medium.otf"
+    },
+    {
+      "": "车速单位",
+      "id_name": "tv_carspeed_unit",
+      "width": -2,
+      "height": -2,
+      "gravity": "t_245|center_horizontal",
+      "visibility":true,
+      "text_size": 30,
+      "text_color": "#C1C1C1",
+      "typeface": "fonts/Microgramma D Extended Medium.otf"
+    }
+  ]
+}

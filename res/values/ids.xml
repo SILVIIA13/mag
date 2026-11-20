@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="app1" />
+    <item type="id" name="app10" />
+    <item type="id" name="app2" />
+    <item type="id" name="app3" />
+    <item type="id" name="app4" />
+    <item type="id" name="app5" />
+    <item type="id" name="app6" />
+    <item type="id" name="app7" />
+    <item type="id" name="app8" />
+    <item type="id" name="app9" />
+    <item type="id" name="apps_lego" />
+    <item type="id" name="bg_btmusic" />
+    <item type="id" name="bg_music" />
+    <item type="id" name="bg_radio" />
+    <item type="id" name="bg_tianqi" />
+    <item type="id" name="bt_music" />
+    <item type="id" name="desktop_window" />
+    <item type="id" name="dw_app_setting" />
+    <item type="id" name="image" />
+    <item type="id" name="indicator" />
+    <item type="id" name="lego2" />
+    <item type="id" name="lego3" />
+    <item type="id" name="local_music" />
+    <item type="id" name="local_radio" />
+    <item type="id" name="motion_base" />
+    <item type="id" name="navi" />
+    <item type="id" name="pager1" />
+    <item type="id" name="speed_text" />
+    <item type="id" name="time" />
+    <item type="id" name="time2" />
+    <item type="id" name="time3" />
+    <item type="id" name="time_hour_ten_digit" />
+    <item type="id" name="time_hour_unit_digit" />
+    <item type="id" name="time_minute_ten_digit" />
+    <item type="id" name="time_minute_unit_digit" />
+    <item type="id" name="view_transition" />
+    <item type="id" name="weather" />
+    <item type="id" name="weather1" />
+    <item type="id" name="weather_temp_max" />
+    <item type="id" name="weather_temp_max_img" />
+    <item type="id" name="weather_temp_min" />
+    <item type="id" name="weather_wendu_min_img" />
+</resources>

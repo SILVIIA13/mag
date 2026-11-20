@@ -1,0 +1,93 @@
+{
+  "source": "theme",
+  "attributes": [
+    {
+      "": "整个设置窗口布局",
+      "id_name": "fl_window",
+      "width": 632,
+      "height": 78,
+      "gravity": "right|r_133|bottom|b_0",
+      "background": "setting_window_bg"
+    },
+    {
+      "": "整个列表布局",
+      "id_name": "rv_items",
+      "width": -2,
+      "height": -2,
+      "gravity": "center_horizontal|t_5",
+      "background": ""
+    },
+    {
+      "": "条目布局",
+      "id_name": "fl_app_item",
+      "width": 70,
+      "height": 70,
+      "gravity": "center_horizontal|bottom|b_15",
+      "foreground": "",
+      "background": "dw_app_setting_item_selected"
+    },
+    {
+      "": "APP 图标",
+      "id_name": "iv_app_icon",
+      "width": 70,
+      "height": 70,
+      "gravity": "center"
+    },
+    {
+      "": "app名称",
+      "id_name": "tv_item",
+      "width": -2,
+      "height": -2,
+      "visibility": false,
+      "gravity": "center_horizontal|t_80",
+      "text_size": 18,
+      "text_color": "#00A2F9"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

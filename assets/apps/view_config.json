@@ -1,0 +1,45 @@
+{
+  "source": "theme",
+  "attributes": [
+    {
+      "": "箭头",
+      "id_name": "iv_arrow",
+      "width": -2,
+      "height": -2,
+      "visibility": true,
+      "gravity": "center_horizontal|t_70"
+    },
+    {
+      "": "导航点",
+      "id_name": "apps_dotView",
+      "width": -2,
+      "height": -2,
+      "visibility": true,
+      "gravity": "center_horizontal|bottom|b_40"
+    },
+    {
+      "": "应用列表APP背景",
+      "id_name": "fl_apps_item",
+      "width": 160,
+      "height": 168
+    },
+    {
+      "": "APP图标",
+      "id_name": "iv_app_icon",
+      "width": 128,
+      "height": 128,
+      "gravity": "center_horizontal|top"
+    },
+    {
+      "": "APP名称",
+      "id_name": "tv_app_name",
+      "width": -2,
+      "height": -2,
+      "gravity": "center_horizontal|bottom",
+      "text_size": 20,
+      "text_color": "#FFFFFF",
+      "visibility": true,
+      "is_shadow": true
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "source": "local",
+  "attributes": [
+    {
+      "": "车速动画",
+      "id_name": "car_effect",
+      "width": -1,
+      "height": -1
+    },
+    {
+      "": "大灯",
+      "id_name": "iv_car_light",
+      "width": -1,
+      "height": -1,
+      "gravity": "center"
+    }
+  ]
+}

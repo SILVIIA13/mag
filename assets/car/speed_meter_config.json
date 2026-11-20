@@ -1,0 +1,17 @@
+{
+  "pointer_img_name": "pointer",
+  "pointer_img_path": "mipmap",
+  "defect_angle": 123,
+  "offset_angle": 270,
+  "max_value": 160,
+  "layer": [
+    {
+      "res_type": "img",
+      "layer_type": "bg",
+      "res_path": "mipmap",
+      "width": 208,
+      "height": 208,
+      "res_name": "color"
+    }
+  ]
+}

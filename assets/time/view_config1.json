@@ -1,0 +1,56 @@
+{
+  "source": "local",
+  "attributes": [
+    {
+      "": "年月日",
+      "id_name": "tv_time_day",
+      "width": -2,
+      "height": -2,
+      "gravity": "l_97|t_87",
+      "text_size": 0,
+      "text_color": "#FFFFFF",
+      "visibility": false
+    },
+    {
+      "": "星期几",
+      "id_name": "tv_time_week",
+      "width": -2,
+      "height": -2,
+      "gravity": "l_112|t_117",
+      "text_size": 0,
+      "text_color": "#FFFFFF",
+      "visibility": false
+    },
+    {
+      "": "时分图片，使用图片时需配置",
+      "id_name": "ll_time_hour",
+      "width": 0,
+      "height": 0,
+      "gravity": "l_0|t_0",
+      "visibility": false
+    },
+    {
+      "": "时分文字，不使用图片时需配置",
+      "id_name": "tv_time_hour",
+      "width": -1,
+      "height": -1,
+      "text_size": 0,
+      "text_color": "#ffffffff",
+      "gravity": "right|r_0|t_0",
+      "visibility": true
+    },
+
+    {
+      "": "12小时制 am、pm",
+      "id_name": "tv_ap",
+      "width": -2,
+      "height": -2,
+      "text_size": 0,
+      "text_color": "#FFFFFF",
+      "gravity": "l_10|t_6",
+      "visibility": false
+    }
+
+
+  ]
+}

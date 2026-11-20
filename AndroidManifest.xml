@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="29" android:compileSdkVersionCodename="10" package="launcher.variety.theme.plugin.sfp_shll19" platformBuildVersionCode="29" platformBuildVersionName="10">
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <application android:icon="@android:drawable/sym_def_app_icon" android:supportsRtl="true">
+        <meta-data android:name="launcher.variety.theme.plugin" android:value="sfp_shll19"/>
+        <meta-data android:name="support_systemui" android:value="false"/>
+        <meta-data android:name="support_systemui_night" android:value="false"/>
+        <meta-data android:name="support_night" android:value="false"/>
+    </application>
+</manifest>

@@ -1,0 +1,21 @@
+{
+  "source": "theme",
+  "attributes": [
+    {
+      "": "首页箭头",
+      "id_name": "iv_home_arrow",
+      "width": -2,
+      "height": -2,
+      "visibility": true,
+      "gravity": "b_0|center_horizontal"
+    },
+    {
+      "": "首页导航点",
+      "id_name": "home_dotView",
+      "width": -2,
+      "height": -2,
+      "visibility": true,
+      "gravity": "center_horizontal|b_30"
+    }
+  ]
+}

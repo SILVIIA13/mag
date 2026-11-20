@@ -1,0 +1,18 @@
+{
+  "source": "theme",
+  "animation_type": "",
+  "width": -1,
+  "height": -1,
+  "view_config_path": "home/view_config.json",
+  "gravity": "center",
+  "background": "page_bg_01",
+  "config": [
+    {
+      "page_bg": "page_bg_01",
+      "apps_bg": "page_bg_01",
+      "design_config": "@layout/theme_config_1024_1",
+      "page_config": [
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "attributes": [
+    {
+      "": "车型车标图片",
+      "id_name": "iv_car_image",
+      "width": -1,
+      "height": -1,
+      "gravity": "margin_20%p"
+    }
+  ]
+}

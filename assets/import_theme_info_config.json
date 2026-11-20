@@ -1,0 +1,10 @@
+{
+  "": "主题id、预览图片名、详情图片名、主题名称、oemid",
+  "themeId": "20230804172536",
+  "iconAddress": "local:icon_local_theme_details_public_01",
+  "previewAddress": [
+    "local:icon_local_theme_details_public_02"
+  ],
+  "themeName": "theme_name",
+  "oemId": "70"
+}

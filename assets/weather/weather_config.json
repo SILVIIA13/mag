@@ -1,0 +1,107 @@
+{
+  "source": "theme",
+  "effects": [
+    {
+      "source": "theme",
+      "config": {
+        "fps": 5,
+        "repeat_count": 1,
+        "repeat_mode": 1,
+        "duration": -1,
+        "delay_start_time": -1
+      },
+      "frame_img_path": "mipmap",
+      "img_name_prefix": "weather_effect_fine_",
+      "img_name_suffix": ".png",
+      "frame_img_quantity": 6,
+      "tag": "fine",
+      "type": "img_frame",
+      "open": true
+    },
+    {
+      "source": "theme",
+      "config": {
+        "fps": 5,
+        "repeat_count": 1,
+        "repeat_mode": 1,
+        "duration": -1,
+        "delay_start_time": -1
+      },
+      "frame_img_path": "mipmap",
+      "img_name_prefix": "weather_effect_cloudy_",
+      "img_name_suffix": ".png",
+      "frame_img_quantity": 6,
+      "tag": "cloudy",
+      "type": "img_frame",
+      "open": true
+    },
+    {
+      "source": "theme",
+      "config": {
+        "fps": 5,
+        "repeat_count": 1,
+        "repeat_mode": 1,
+        "duration": -1,
+        "delay_start_time": -1
+      },
+      "frame_img_path": "mipmap",
+      "img_name_prefix": "weather_effect_rain_",
+      "img_name_suffix": ".png",
+      "frame_img_quantity": 6,
+      "tag": "rain",
+      "type": "img_frame",
+      "open": true
+    },
+    {
+      "source": "theme",
+      "config": {
+        "fps": 5,
+        "repeat_count": 1,
+        "repeat_mode": 1,
+        "duration": -1,
+        "delay_start_time": -1
+      },
+      "frame_img_path": "mipmap",
+      "img_name_prefix": "weather_effect_thunderstorm_",
+      "img_name_suffix": ".png",
+      "frame_img_quantity": 6,
+      "tag": "thunderstorm",
+      "type": "img_frame",
+      "open": true
+    },
+    {
+      "source": "theme",
+      "config": {
+        "fps": 5,
+        "repeat_count": 1,
+        "repeat_mode": 1,
+        "duration": -1,
+        "delay_start_time": -1
+      },
+      "frame_img_path": "mipmap",
+      "img_name_prefix": "weather_effect_snow_",
+      "img_name_suffix": ".png",
+      "frame_img_quantity": 6,
+      "tag": "snow",
+      "type": "img_frame",
+      "open": true
+    },
+    {
+      "source": "theme",
+      "config": {
+        "fps": 5,
+        "repeat_count": 1,
+        "repeat_mode": 1,
+        "duration": -1,
+        "delay_start_time": -1
+      },
+      "frame_img_path": "mipmap",
+      "img_name_prefix": "weather_effect_haze_",
+      "img_name_suffix": ".png",
+      "frame_img_quantity": 6,
+      "tag": "haze",
+      "type": "img_frame",
+      "open": true
+    }
+  ]
+}

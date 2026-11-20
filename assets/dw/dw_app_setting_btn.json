@@ -1,0 +1,25 @@
+{
+  "soft_name": "dw_app_setting_btn_name",
+  "icon_name": "dw_app_setting_btn_icon",
+  "extra_info": {
+    "enter_anim": "left_in",
+    "exit_anim": "left_out",
+    "orientation": "horizontal",
+    "row_gap": 26,
+    "col_gap": 48 ,
+    "span_count": "1",
+    "view_config_path": "dw/dw_app_setting_window_view_config.json"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+

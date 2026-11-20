@@ -1,0 +1,46 @@
+{
+  "source": "theme",
+  "attributes": [{
+    "": "导航插件背景",
+    "id_name": "frame_navigation",
+    "width": -1,
+    "height": -1
+  }, {
+    "": "导航插件模块小图标",
+    "id_name": "iv_navigation_module_image",
+    "width": 44,
+    "height": 44,
+    "gravity": "l_12|t_10",
+    "visibility": false
+  }, {
+    "": "导航插件模块名",
+    "id_name": "tv_navigation_name",
+    "width": -2,
+    "height": -2,
+    "gravity": "t_20|center_horizontal",
+    "text_size": 24,
+    "text_color": "#FFB8BDC3",
+    "visibility": false
+  }, {
+    "": "导航插件图标",
+    "id_name": "iv_navigation_image",
+    "width": 70,
+    "height": 50,
+    "gravity": "l_333|t_70",
+    "visibility": false
+  }, {
+    "": "回家按钮",
+    "id_name": "iv_navigation_go_home",
+    "width": 90,
+    "height": 90,
+    "gravity": "r_20|b_0",
+    "visibility": false
+  }, {
+    "": "去公司按钮",
+    "id_name": "iv_navigation_go_company",
+    "width": 90,
+    "height": 90,
+    "gravity": "l_20|b_0",
+    "visibility": false
+  }]
+}

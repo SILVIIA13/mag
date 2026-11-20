@@ -1,0 +1,363 @@
+{
+  "compare_type": "packageName",
+  "config": [
+
+    {
+      "tag": "98",
+      "soft_name": "hotseat_app_apps",
+      "package_name": "apps",
+      "icon_name": "link_icon_apps",
+      "class_name": "apps",
+      "compare_name": "apps"
+    },
+    {
+      "tag": "99",
+      "soft_name": "hotseat_app_setting",
+      "icon_name": "link_icon_setting",
+      "more_packages": [{
+        "package_name":"com.dofun.carsetting",
+        "compare_name":"com.dofun.carsetting.ui.MainActivity"
+      },
+        {
+          "package_name": "com.android.settings",
+          "compare_name": "com.android.settings.Settings"
+        }],
+      "behavior": [
+        "fixed"
+      ]
+    },
+    {
+      "tag": "100",
+      "soft_name": "hotseat_app_music",
+      "icon_name": "link_icon_music",
+      "compare_soft_name": "音乐,音樂,Music",
+      "more_packages": [{
+        "package_name": "com.tw.media",
+        "class_name": "com.tw.music.MusicActivity"
+      },{
+        "package_name": "com.tw.music",
+        "class_name": "com.tw.music.MusicActivity"
+      }],
+      "behavior": [
+        "fixed"
+      ]
+    },
+
+    {
+      "tag": "101",
+      "soft_name": "hotseat_app_eq",
+      "icon_name": "link_icon_eq",
+      "more_packages": [{
+        "package_name": "com.tw.eq",
+        "class_name": "com.tw.eq.EQActivity"
+      },
+        {
+          "package_name": "com.tw.eq",
+          "class_name": "com.tw.eq.DSPActivity"
+        },{
+          "package_name": "com.tw.eq",
+          "class_name": "com.tw.eq.EQChoiceActivity"
+        }],
+      "behavior": [
+        "fixed"
+      ]
+    },
+
+    {
+      "tag": "102",
+      "soft_name": "hotseat_app_bt",
+      "icon_name": "link_icon_bt",
+      "compare_name": "com.tw.bt",
+      "compare_soft_name": "蓝牙,藍牙,电话,電話,Bt,Phone"
+    },
+
+    {
+      "tag": "103",
+      "soft_name": "hotseat_app_youtube",
+      "icon_name": "link_icon_youtube",
+      "class_name": "com.google.android.youtube.app.honeycomb.Shell$HomeActivity",
+      "package_name": "com.google.android.youtube",
+      "compare_name": "com.google.android.youtube.app.honeycomb.Shell$HomeActivity",
+      "behavior": [
+        "fixed"
+      ]
+    },
+
+    {
+      "tag": "104",
+      "soft_name": "hotseat_app_googleplay",
+      "icon_name": "link_icon_googleplay",
+      "compare_name": "com.android.vending.AssetBrowserActivity",
+      "behavior": [
+        "fixed"
+      ]
+    },
+
+
+    {
+      "tag": "105",
+      "soft_name": "hotseat_app_radio",
+      "icon_name": "link_icon_radio",
+      "compare_name": "com.tw.radio",
+      "compare_soft_name": "收音,电台,電台,Radio"
+    },
+
+    {
+      "tag": "106",
+      "soft_name": "",
+      "icon_name": "link_icon_aux",
+      "compare_name": "com.tw.auxin.AuxInActivity",
+      "behavior": [
+        "fixed"
+      ]
+    },
+
+    {
+      "tag": "107",
+      "soft_name": "hotseat_app_file",
+      "icon_name": "link_icon_file",
+      "class_name": "com.tw.twfileexplore.ui.view.activity.ExploreActivity",
+      "package_name": "com.tw.twfileexplore",
+      "behavior": [
+        "fixed"
+      ]
+    },
+
+
+
+
+
+
+
+    {
+      "tag": "108",
+      "soft_name": "hotseat_app_map",
+      "icon_name": "link_icon_map",
+      "class_name": "com.google.android.maps.MapsActivity",
+      "package_name": "com.google.android.apps.maps"
+    },
+
+
+
+
+
+    {
+      "tag": "109",
+      "soft_name": "hotseat_app_googleexplorer",
+      "icon_name": "link_icon_googleexplorer",
+      "compare_name": "com.google.android.apps.chrome.Main",
+      "behavior": [
+        "fixed"
+      ]
+    },
+
+
+
+
+    {
+      "tag": "110",
+      "soft_name": "hotseat_app_video",
+      "icon_name": "link_icon_video",
+      "compare_soft_name": "视频,視頻,Video",
+      "more_packages": [{
+        "package_name": "com.tw.video",
+        "class_name": "com.tw.video.VideoActivity"
+      },{
+        "package_name": "com.tw.media",
+        "class_name": "com.tw.video.VideoActivity"
+      }],
+      "behavior": [
+        "fixed"
+      ]
+    },
+
+
+
+
+
+    {
+      "tag": "111",
+      "soft_name": "",
+      "icon_name": "",
+      "compare_soft_name": "",
+      "function": "customize",
+      "package_name": "",
+      "class_name": ""
+    },
+
+
+
+    {
+      "tag": "112",
+      "soft_name": "hotseat_app_360",
+      "icon_name": "link_icon_360",
+      "compare_soft_name": "360全景,全景360,360° View,货车360,貨車360,Truck 360,360,灵动飞扬",
+      "more_packages": [{
+        "package_name": "com.percherry.roundadas",
+        "class_name": "com.percherry.roundadas"
+      },
+        {
+          "package_name": "com.baony.tw360",
+          "class_name": "com.baony.tw360"
+        },
+        {
+          "package_name": "com.baony.tw360,com.percherry.roundadas,cn.cardoor.zt360",
+          "class_name": "com.baony.tw360,com.percherry.roundadas,cn.cardoor.zt360"
+        }
+      ],
+      "behavior": [
+        "fixed"
+      ]
+    },
+
+
+
+
+
+    {
+      "tag": "113",
+      "soft_name": "hotseat_app_apk",
+      "icon_name": "link_icon_apk_installer",
+      "compare_name": "com.android.settings.InstallActivity"
+    },
+
+
+
+    {
+      "tag": "114",
+      "soft_name": "hotseat_app_yilian",
+      "icon_name": "link_icon_yilian",
+      "package_name": "net.easyconn",
+      "compare_name": " net.easyconn.WelcomeActivity"
+
+    },
+    {
+      "tag": "115",
+      "soft_name": "hotseat_app_yilian",
+      "icon_name": "link_icon_yilian",
+      "more_packages": [{
+        "package_name": "net.easyconn",
+        "class_name": "net.easyconn.ui.StandMainActivity"
+      },
+        {
+          "package_name": "net.easyconn",
+          "class_name": "net.easyconn.ui.MainActivity"
+        },{
+          "package_name": "net.easyconn",
+          "class_name": "net.easyconn.WelcomeActivity"
+        }]
+    },
+
+
+
+
+
+
+
+
+    {
+      "tag": "116",
+      "soft_name": "hotseat_app_facebook",
+      "icon_name": "link_icon_facebook",
+      "package_name": "com.facebook.katana",
+      "compare_name": "com.facebook.katana.LoginActivity"
+    },
+
+
+
+    {
+      "tag": "117",
+      "soft_name": "",
+      "icon_name": "link_icon_dvr",
+      "compare_name": "com.dofun.recorder"
+    },
+
+
+
+
+    {
+      "tag": "118",
+      "soft_name": "hotseat_app_google",
+      "icon_name": "link_icon_google",
+      "compare_name": "com.google.android.apps.gsa.searchnow.SearchNowActivity"
+    },
+    {
+      "tag": "119",
+      "soft_name": "",
+      "icon_name": "link_icon_weather",
+      "compare_name": "com.dofun.dofunweather.main"
+    },
+    {
+      "tag": "120",
+      "soft_name": "",
+      "icon_name": "link_icon_dofun_voice",
+      "compare_name": "com.dofun.aios.voice"
+    },
+
+    {
+      "tag": "121",
+      "soft_name": "",
+      "icon_name": "link_icon_tpms",
+      "compare_name": "com.dofun.tpms"
+    },
+    {
+      "tag": "122",
+      "soft_name": "",
+      "icon_name": "link_icon_dvr",
+      "compare_name": "com.dofun.recorder.MainActivity"
+    },
+    {
+      "tag": "123",
+      "soft_name": "",
+      "icon_name": "link_icon_dvd",
+      "compare_name": "com.tw.dvd.DVDActivity"
+    },
+
+    {
+      "tag": "124",
+      "soft_name": "hotseat_app_bootanimation",
+      "icon_name": "link_icon_bootanimation",
+      "compare_name": "com.tw.bootanimation.BootAnimationActivity"
+    },
+
+    {
+      "tag": "125",
+      "soft_name": "hotseat_app_color",
+      "icon_name": "link_icon_qisedeng",
+      "compare_name": "com.tw.color.ColorActivity"
+    },
+
+
+    {
+      "tag": "126",
+      "soft_name": "hotseat_app_tuku",
+      "icon_name": "link_icon_tuku",
+      "compare_name": "com.alensw.PicFolder.GalleryActivity"
+    },
+    {
+      "tag": "127",
+      "soft_name": "",
+      "icon_name": "link_icon_gpstest",
+      "compare_name": "com.androits.gps.test.ui.SkyActivity"
+    },
+    {
+      "tag": "128",
+      "soft_name": "",
+      "icon_name": "link_icon_tpms",
+      "compare_name": "com.dofun.tpms.activity.MainActivity"
+    },
+
+    {
+      "tag": "130",
+      "soft_name": "",
+      "icon_name": "link_icon_steeringwheel",
+      "compare_name": "com.android.settings.keypad2.KeyPad2Activity"
+    },
+    {
+      "tag": "131",
+      "soft_name": "",
+      "icon_name": "link_icon_steeringwheel",
+      "compare_name": " com.android.settings.KeypadActivity"
+    }
+  ]
+}

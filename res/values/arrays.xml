@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timeImageNames">
+        <item>time_0</item>
+        <item>time_1</item>
+        <item>time_2</item>
+        <item>time_3</item>
+        <item>time_4</item>
+        <item>time_5</item>
+        <item>time_6</item>
+        <item>time_7</item>
+        <item>time_8</item>
+        <item>time_9</item>
+    </string-array>
+</resources>

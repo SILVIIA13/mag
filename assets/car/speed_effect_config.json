@@ -1,0 +1,77 @@
+{
+  "source": "theme",
+  "effects": [
+    {
+      "config": {
+        "fps": "5",
+        "repeat_count": -1,
+        "repeat_mode": 1,
+        "speed_effect": [
+          {
+            "speed_threshold": 5,
+            "fps": 12
+          },
+          {
+            "speed_threshold": 10,
+            "fps": 16
+          },
+          {
+            "speed_threshold": 20,
+            "fps": 20
+          },
+          {
+            "speed_threshold": 30,
+            "fps": 24
+          },
+          {
+            "speed_threshold": 50,
+            "fps": 28
+          },
+          {
+            "speed_threshold": 70,
+            "fps": 32
+          },
+          {
+            "speed_threshold": 90,
+            "fps": 36
+          }
+        ]
+      },
+      "frame_img_path": "mipmap",
+      "frame_img_quantity": "150",
+      "img_name_prefix": "car_effect_driving_",
+      "img_name_suffix": ".png",
+      "tag": "driving",
+      "type": "img_frame",
+      "open": true
+    },
+    {
+      "config": {
+        "fps": "5",
+        "repeat_count": -1,
+        "repeat_mode": 1
+      },
+      "frame_img_path": "mipmap",
+      "frame_img_quantity": "1",
+      "img_name_prefix": "car_effect_halt_",
+      "img_name_suffix": ".png",
+      "tag": "halt",
+      "type": "img_frame",
+      "open": true
+    },
+    {
+      "config": {
+        "fps": "5",
+        "repeat_count": -1,
+        "repeat_mode": 1
+      },
+      "frame_img_path": "mipmap",
+      "frame_img_quantity": "1",
+      "img_name_prefix": "car_effect_light_",
+      "img_name_suffix": ".png",
+      "tag": "light",
+      "type": "img_frame",
+      "open": true
+    }
+  ]
+}

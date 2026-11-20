@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CircleImageStyle">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50.0%</item>
+    </style>
+    <style name="RoundStyle_16">
+        <item name="cornerSizeBottomLeft">16.0dip</item>
+        <item name="cornerSizeBottomRight">16.0dip</item>
+        <item name="cornerSizeTopLeft">16.0dip</item>
+        <item name="cornerSizeTopRight">16.0dip</item>
+    </style>
+    <style name="RoundStyle_20">
+        <item name="cornerSizeBottomLeft">20.0dip</item>
+        <item name="cornerSizeBottomRight">20.0dip</item>
+        <item name="cornerSizeTopLeft">20.0dip</item>
+        <item name="cornerSizeTopRight">20.0dip</item>
+    </style>
+</resources>

@@ -1,0 +1,158 @@
+{
+  "source": "theme",
+  "attributes": [
+    {
+      "": "背景动画效果",
+      "id_name": "if_effect",
+      "width": -1,
+      "height": 100,
+      "visibility": false
+    },
+    {
+      "": "模块图片",
+      "id_name": "iv_weather_module_icon",
+      "width": 30,
+      "height": 30,
+      "gravity": "l_90|bottom|b_15",
+      "visibility": false
+    },
+    {
+      "": "模块名",
+      "id_name": "tv_weather_module_text",
+      "width": -2,
+      "height": -2,
+      "text_size": 24,
+      "text_color": "#ffffffff",
+      "gravity": "l_130|bottom|b_18",
+      "visibility": false
+    },
+    {
+      "": "天气图片",
+      "id_name": "iv_weather_img",
+      "width": 122,
+      "height": 122,
+      "gravity": "right|r_47|t_19",
+      "visibility": false
+    },
+    {
+      "": "地理位置图片",
+      "id_name": "iv_city_img",
+      "width": 30,
+      "height": 30,
+      "gravity": "l_85|t_32",
+      "visibility": false
+    },
+    {
+      "": "地理位置",
+      "id_name": "tv_weather_city",
+      "width": -2,
+      "height": -2,
+      "gravity": "l_24|t_19",
+      "text_size": 0,
+      "text_color": "#ffffffff",
+      "visibility": false
+    },
+    {
+      "": "温度",
+      "id_name": "tv_weather_temp",
+      "width": -2,
+      "height": -2,
+      "gravity": "l_24|t_8",
+      "text_size": 30,
+      "text_color": "#ffffffff",
+      "visibility": true
+    },
+    {
+      "": "温度范围",
+      "id_name": "tv_temp_range",
+      "width": -2,
+      "height": -2,
+      "gravity": "center_horizontal|t_205",
+      "text_size": 0,
+      "text_color": "#ffffffff",
+      "visibility": false
+    },
+    {
+      "": "天气情况",
+      "id_name": "tv_weather_info",
+      "width": -2,
+      "height": -2,
+      "gravity": "center_horizontal|t_258",
+      "text_size": 0,
+      "text_color": "#ffffffff",
+      "visibility":false
+    },
+    {
+      "": "风向指数图片",
+      "id_name": "iv_weather_wind",
+      "width": 20,
+      "height": 20,
+      "gravity": "l_48|t_308",
+      "visibility": false
+    },
+    {
+      "": "风向指数",
+      "id_name": "tv_weather_wind",
+      "width": -2,
+      "height": -2,
+      "gravity": "l_90|t_308",
+      "text_size": 16,
+      "text_color": "#ffffffff",
+      "visibility": false
+    },
+    {
+      "": "紫外线指数图片",
+      "id_name": "iv_weather_uv",
+      "width": 20,
+      "height": 20,
+      "gravity": "l_48|t_338",
+      "visibility": false
+    },
+    {
+      "": "紫外线指数",
+      "id_name": "tv_weather_uv",
+      "width": -2,
+      "height": -2,
+      "gravity": "l_90|t_338",
+      "text_size": 16,
+      "text_color": "#ffffffff",
+      "visibility": false
+    },
+    {
+      "": "洗车指数图片",
+      "id_name": "iv_weather_car_wash",
+      "width": 20,
+      "height": 20,
+      "gravity": "bottom|b_5|l_5",
+      "visibility": false
+    },
+    {
+      "": "洗车指数",
+      "id_name": "tv_weather_car_wash",
+      "width": -2,
+      "height": -2,
+      "gravity": "l_30|bottom|b_5",
+      "text_size": 16,
+      "text_color": "#ffffffff",
+      "visibility": false
+    },
+    {
+      "": "湿度指数图片",
+      "id_name": "iv_weather_humidity",
+      "width": 20,
+      "height": 20,
+      "gravity": "l_48|t_368",
+      "visibility": false
+    },
+    {
+      "": "湿度指数",
+      "id_name": "tv_weather_humidity",
+      "width": -2,
+      "height": -2,
+      "gravity": "l_90|t_368",
+      "text_size": 16,
+      "text_color": "#ffffffff",
+      "visibility": false
+    }
+  ]
+}

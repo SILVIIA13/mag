@@ -1,0 +1,10 @@
+{
+  "source": "theme",
+  "icon_path": "mipmap",
+  "show_time": 3000,
+  "car_stop_go": "car_effect_adas_warning_stop_go",
+  "car_dis_near": "car_effect_adas_warning_car",
+  "car_track_offset": "car_effect_adas_warning_lane",
+  "car_track_offset_left": "car_effect_adas_warning_lane_left",
+  "car_track_offset_right": "car_effect_adas_warning_lane_right"
+}

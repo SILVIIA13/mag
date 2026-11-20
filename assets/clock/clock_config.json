@@ -1,0 +1,8 @@
+{
+  "source": "theme",
+  "image_path": "mipmap-mdpi",
+  "dial_name": "dial",
+  "hour_hand_name": "hour",
+  "minute_hand_name": "minute",
+  "second_hand_name": "second"
+}
